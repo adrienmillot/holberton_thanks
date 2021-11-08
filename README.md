@@ -1,0 +1,1 @@
+![Picture](images/thanks.png)
